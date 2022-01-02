@@ -6,6 +6,8 @@
 
 ![Glauber's GitHub stats](https://github-readme-stats.vercel.app/api?username=gvfmarques&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gvfmarques&layout=compact)](https://github.com/gvfmarques/github-readme-stats)
+
 ### Technologies I use in day to day bases
 
 <div style="display: inline_block"><br/>
