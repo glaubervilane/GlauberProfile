@@ -8,7 +8,7 @@
 </ul><br/>
 
 
-[![Blog](https://img.shields.io/website?label=http://glaubermarques.com&style=for-the-badge&url=http://glaubermarques.azurewebsites.net/)](http://glaubermarques.azurewebsites.net/experiences)
+[![Blog](https://img.shields.io/website?label=http://glaubermarques.com&style=for-the-badge&url=http://glaubermarques.azurewebsites.net/)](http://glaubermarques.azurewebsites.net/)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/glauberdev/)
 [![Blog](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glaubervilane/)
 <hr/>
